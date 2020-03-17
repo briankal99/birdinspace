@@ -1,0 +1,20 @@
+title: 'Bird in Space'
+description: "Crosswords and Blog Posts by Brian Kalathiveetil"
+baseurl: "/"
+url: "https://birdin.space"
+
+header_pages:
+  - index.md
+  - about.md
+  - contact.md
+
+style: light
+
+footer: 'Follow Brian on <a href ="https://facebook.com/brian.kal">Facebook</a> and <a href="https://instagram.com/briankal19">Instagram</a>'
+
+# Build settings
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console
+
+plugins:
+  - jekyll-seo-tag
