@@ -9,7 +9,7 @@ header_pages:
 
 style: light
 
-footer: 'Follow Brian on <a href ="https://facebook.com/brian.kal">Facebook</a> and <a href="https://instagram.com/briankal19">Instagram</a>'
+footer: 'Follow me on <a href ="https://facebook.com/brian.kal">Facebook</a> and <a href="https://instagram.com/briankal19">Instagram</a>'
 
 # Build settings
 markdown: kramdown
