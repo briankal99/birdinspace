@@ -1,6 +1,5 @@
 title: 'Bird in Space'
 description: "Crosswords and Blog Posts by Brian Kalathiveetil"
-baseurl: "/"
 url: "https://birdin.space"
 
 header_pages:
@@ -18,3 +17,8 @@ remote_theme: b2a3e8/jekyll-theme-console
 
 plugins:
   - jekyll-seo-tag
+
+  #commit instructions
+  #git add .
+  #git commit -m "nth commit"
+  #git push origin gh-pages
