@@ -25,7 +25,7 @@ With that being said, I'd like to enumerate some habits from the CDC that will h
     <footer><cite>Centers for Disease Control and Prevention</cite></footer>
 </blockquote>
 
-With that being said, I wish the best of luck to everyone going through these tough times, and I have faith that we can all get through it together!
+I wish the best of luck to everyone going through these tough times, and I have faith that we can all get through it together!
 
 # Crossword - Mini #1
 Enjoy this first crossword! It's a mini 5x5 - I'll be getting your standard 15x15 crosswords sometime within the next week!
