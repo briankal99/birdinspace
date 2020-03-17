@@ -4,6 +4,7 @@ title:  "Passing Time"
 date:   2020-03-17 15:00:00 +0600
 categories:
 ---
+#### Passing Time
 
 # Current status
 Hey folks, gonna keep this pretty short. School's starting tomorrow at Zoom University and I can't wait! Turns out that only two out of my four classes are planning to use Zoom, so that's not so bad! However, I'll constantly be in a video call from 2:00-7:30PM tomorrow, and that's pretty dreadful. Luckily I only have to do this on Mondays and Wednesdays, so the rest of the week is pretty light.

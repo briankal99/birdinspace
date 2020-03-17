@@ -4,6 +4,7 @@ title:  "Current State of Affairs"
 date:   2020-03-16 19:30:00 +0600
 categories:
 ---
+#### Current State of Affairs
 
 # Welcome
 Hey folks, welcome to the first post of what I hope will be an active blog/crossword repository. To be quite honest, I'm not feeling amazing right now, especially with the ongoing COVID-19 outbreak/pandemic. I've just recently heard that my classes are online for the rest of the semester and my commencement/graduation ceremony is cancelled. While this is quite depressing, I do want to point out that at times like this, it's always great to look at the faint remnants of the silver lining that encompasses this whole situation. <br><br>
