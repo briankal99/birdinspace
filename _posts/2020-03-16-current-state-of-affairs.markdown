@@ -28,5 +28,5 @@ With that being said, I'd like to enumerate some habits from the CDC that will h
 I wish the best of luck to everyone going through these tough times, and I have faith that we can all get through it together!
 
 # Crossword - Mini #1
-Enjoy this first crossword! It's a mini 5x5 - I'll be getting your standard 15x15 crosswords sometime within the next week!
+Enjoy this first crossword! It's a mini 5x5 - I'll be getting your standard 15x15 crosswords sometime within the next week! Best of luck ~
 <iframe height="700" width="100%" allowfullscreen="true" style="border:none;width: 100% !important;position: static;display: block !important;margin: 0 !important;"  name="9da692af27ca629851be77d10fca022372b97bbd031e61a32339330ba016c4b9" src="https://amuselabs.com/pmm/crossword?id=3d07e8c1&set=9da692af27ca629851be77d10fca022372b97bbd031e61a32339330ba016c4b9&embed=1&compact=1&maxCols=2"></iframe>
