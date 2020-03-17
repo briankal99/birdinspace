@@ -20,6 +20,6 @@ plugins:
 
   #commit instructions
   #git add .
-  #git pull --rebase origin master
   #git commit -m "nth commit"
+  #git pull --rebase origin gh-pages
   #git push origin gh-pages
