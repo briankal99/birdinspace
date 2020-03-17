@@ -8,7 +8,7 @@ categories:
 # Current status
 Hey folks, gonna keep this pretty short. School's starting tomorrow at Zoom University and I can't wait! Turns out that only two out of my four classes are planning to use Zoom, so that's not so bad! However, I'll constantly be in a video call from 2:00-7:30PM tomorrow, and that's pretty dreadful. Luckily I only have to do this on Mondays and Wednesdays, so the rest of the week is pretty light.
 
-#Comedians
+# Comedians
 I've been passing the time by watching clips from famous stand-up comedian Gabriel Iglesias (Fluffy). I'd totally recommend trying out a clip or two; most of his stand-up bits are on Netflix, but if you don't have a subscription, [here's](https://www.youtube.com/watch?v=6jIKinumPcU) a clip to get you started!
 
 # Crossword - Mini #2
