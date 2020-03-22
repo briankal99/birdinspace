@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Boredom"
+date:   2020-03-21 23:30:00 +0600
+categories:
+---
+#### Boredom
+
+# Current Status
+Gov. Pritzker issued a stay-at-home order in the state of Illinois, which means that all individuals are encouraged to minimize any external interactions (such as exclusively going out to get groceries, going to the pharmacy, etc). I'm bored.
+
+# Crossword - Mini #3
+I heard the last crossword was hard from a number of people, so I hope this next one isn't too bad!
+<iframe height="700" width="100%" allowfullscreen="true" style="border:none;width: 100% !important;position: static;display: block !important;margin: 0 !important;"  name="9da692af27ca629851be77d10fca022372b97bbd031e61a32339330ba016c4b9" src="https://amuselabs.com/pmm/crossword?id=3ab01cc5&set=9da692af27ca629851be77d10fca022372b97bbd031e61a32339330ba016c4b9&embed=1&compact=1&maxCols=2"></iframe>
